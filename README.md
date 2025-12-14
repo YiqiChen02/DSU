@@ -49,5 +49,5 @@ This project is licensed under the **MIT License**. See `LICENSE` for more detai
 ## 📧 Contact
 
 For any questions or issues, feel free to reach out to the corresponding author:
-**Yiqi Chen (First Author):** 244811086@csu.edu.cn
+* **Yiqi Chen (First Author):** 244811086@csu.edu.cn
 * **Ganghai Huang (Corresponding Author):** huangganghai@csu.edu.cn
